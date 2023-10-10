@@ -1,2 +1,2 @@
 # Patterns2
-Ja
+Java Patterns
